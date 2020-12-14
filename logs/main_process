@@ -1,0 +1,620 @@
+[INFO] Jan 16 2020 18:20:41 : Started main process
+[DEBUG] Jan 16 2020 18:20:41 : {"mysql_username": "kulyutmazuser", "mysql_host": "localhost", "refresh_millis": 1000, "sensitivity": 32, "accounts": [{"server": "imap.google.com", "password": "totallysecurepass", "uname": "ycolakoglu.bilisim@gmail.com", "port": 993}], "mysql_database": "kulyutmaz_db", "mysql_password": "totallysecurepass"}
+[DEBUG] Jan 16 2020 18:20:41 : {"mysql_username": "kulyutmazuser", "mysql_host": "localhost", "mysql_database": "kulyutmaz_db", "mysql_password": "totallysecurepass"}
+[DEBUG] Jan 16 2020 18:20:41 : /home/yigit/.kulyutmaz//logs/ycolakoglu.bilisim@gmail.com
+[DEBUG] Jan 16 2020 18:20:41 : Logger created for ycolakoglu.bilisim@gmail.com
+[INFO] Jan 16 2020 18:23:03 : Started main process
+[DEBUG] Jan 16 2020 18:23:03 : {"mysql_username": "kulyutmazuser", "mysql_host": "localhost", "refresh_millis": 1000, "sensitivity": 32, "accounts": [{"server": "imap.google.com", "password": "totallysecurepass", "uname": "ycolakoglu.bilisim@gmail.com", "port": 993}], "mysql_database": "kulyutmaz_db", "mysql_password": "totallysecurepass"}
+[DEBUG] Jan 16 2020 18:23:03 : {"mysql_username": "kulyutmazuser", "mysql_host": "localhost", "mysql_database": "kulyutmaz_db", "mysql_password": "totallysecurepass"}
+[DEBUG] Jan 16 2020 18:23:03 : /home/yigit/.kulyutmaz/logs/ycolakoglu.bilisim@gmail.com
+[DEBUG] Jan 16 2020 18:23:03 : Logger created for ycolakoglu.bilisim@gmail.com
+[INFO] Jan 16 2020 18:24:07 : Started main process
+[DEBUG] Jan 16 2020 18:24:07 : {"mysql_username": "kulyutmazuser", "mysql_host": "localhost", "refresh_millis": 1000, "sensitivity": 32, "accounts": [{"server": "imap.google.com", "password": "totallysecurepass", "uname": "ycolakoglu.bilisim@gmail.com", "port": 993}], "mysql_database": "kulyutmaz_db", "mysql_password": "totallysecurepass"}
+[DEBUG] Jan 16 2020 18:24:07 : {"mysql_username": "kulyutmazuser", "mysql_host": "localhost", "mysql_database": "kulyutmaz_db", "mysql_password": "totallysecurepass"}
+[DEBUG] Jan 16 2020 18:24:07 : /home/yigit/.kulyutmaz/logs/ycolakoglu.bilisim@gmail.com
+[DEBUG] Jan 16 2020 18:24:07 : Logger created for ycolakoglu.bilisim@gmail.com
+[INFO] Jan 16 2020 18:25:14 : Started main process
+[DEBUG] Jan 16 2020 18:25:14 : {"mysql_username": "kulyutmazuser", "mysql_host": "localhost", "threshold": 20, "refresh_millis": 1000, "sensitivity": 32, "accounts": [{"server": "imap.google.com", "password": "totallysecurepass", "uname": "ycolakoglu.bilisim@gmail.com", "port": 993}], "mysql_database": "kulyutmaz_db", "mysql_password": "totallysecurepass"}
+[DEBUG] Jan 16 2020 18:25:14 : {"mysql_username": "kulyutmazuser", "mysql_host": "localhost", "mysql_database": "kulyutmaz_db", "mysql_password": "totallysecurepass"}
+[DEBUG] Jan 16 2020 18:25:14 : /home/yigit/.kulyutmaz/logs/ycolakoglu.bilisim@gmail.com
+[DEBUG] Jan 16 2020 18:25:14 : Logger created for ycolakoglu.bilisim@gmail.com
+[DEBUG] Jan 16 2020 18:25:14 : [{"server": "imap.google.com", "password": "totallysecurepass", "uname": "ycolakoglu.bilisim@gmail.com", "port": 993}, 1000, {"mysql_username": "kulyutmazuser", "mysql_host": "localhost", "mysql_database": "kulyutmaz_db", "mysql_password": "totallysecurepass"}, 32, 20]
+[DEBUG] Jan 16 2020 18:25:14 : Watcher created for ycolakoglu.bilisim@gmail.com
+[INFO] Jan 16 2020 18:25:14 : Created listeners
+[INFO] Jan 16 2020 18:27:05 : Started main process
+[DEBUG] Jan 16 2020 18:27:05 : {"mysql_username": "kulyutmazuser", "mysql_host": "localhost", "threshold": 20, "refresh_millis": 1000, "sensitivity": 32, "accounts": [{"server": "imap.google.com", "password": "totallysecurepass", "uname": "ycolakoglu.bilisim@gmail.com", "port": 993}], "mysql_database": "kulyutmaz_db", "mysql_password": "totallysecurepass"}
+[DEBUG] Jan 16 2020 18:27:05 : {"mysql_username": "kulyutmazuser", "mysql_host": "localhost", "mysql_database": "kulyutmaz_db", "mysql_password": "totallysecurepass"}
+[DEBUG] Jan 16 2020 18:27:05 : /home/yigit/.kulyutmaz/logs/ycolakoglu.bilisim@gmail.com
+[DEBUG] Jan 16 2020 18:27:05 : Logger created for ycolakoglu.bilisim@gmail.com
+[DEBUG] Jan 16 2020 18:27:05 : [{"server": "imap.google.com", "password": "totallysecurepass", "uname": "ycolakoglu.bilisim@gmail.com", "port": 993}, 1000, {"mysql_username": "kulyutmazuser", "mysql_host": "localhost", "mysql_database": "kulyutmaz_db", "mysql_password": "totallysecurepass"}, 32, 20]
+[DEBUG] Jan 16 2020 18:27:05 : Watcher created for ycolakoglu.bilisim@gmail.com
+[INFO] Jan 16 2020 18:27:05 : Created listeners
+[INFO] Jan 16 2020 18:28:59 : Started main process
+[DEBUG] Jan 16 2020 18:28:59 : {"mysql_username": "kulyutmazuser", "mysql_host": "localhost", "threshold": 20, "refresh_millis": 1000, "sensitivity": 32, "accounts": [{"server": "imap.google.com", "password": "totallysecurepass", "uname": "ycolakoglu.bilisim@gmail.com", "port": 993}], "mysql_database": "kulyutmaz_db", "mysql_password": "totallysecurepass"}
+[DEBUG] Jan 16 2020 18:28:59 : {"mysql_username": "kulyutmazuser", "mysql_host": "localhost", "mysql_database": "kulyutmaz_db", "mysql_password": "totallysecurepass"}
+[DEBUG] Jan 16 2020 18:28:59 : /home/yigit/.kulyutmaz/logs/ycolakoglu.bilisim@gmail.com
+[DEBUG] Jan 16 2020 18:28:59 : Logger created for ycolakoglu.bilisim@gmail.com
+[DEBUG] Jan 16 2020 18:28:59 : ["ycolakoglu.bilisim@gmail.com", "totallysecurepass", "imap.google.com", 993]
+[DEBUG] Jan 16 2020 18:28:59 : Watcher created for ycolakoglu.bilisim@gmail.com
+[INFO] Jan 16 2020 18:28:59 : Created listeners
+[INFO] Jan 16 2020 18:31:58 : Started main process
+[INFO] Jan 16 2020 18:31:58 : Created listeners
+[INFO] Jan 16 2020 18:33:37 : Started main process
+[INFO] Jan 16 2020 18:33:37 : Created listeners
+[INFO] Jan 16 2020 18:34:00 : Detected interrupt. Stopping!
+[INFO] Jan 16 2020 18:34:00 : Sent stop signal to all threads!
+[INFO] Jan 16 2020 18:34:12 : Started main process
+[INFO] Jan 16 2020 18:34:12 : Created listeners
+[INFO] Jan 16 2020 18:34:46 : Detected interrupt. Stopping!
+[INFO] Jan 16 2020 18:34:46 : Sent stop signal to all threads!
+[INFO] Jan 16 2020 18:35:09 : Started main process
+[INFO] Jan 16 2020 18:35:09 : Created listeners
+[INFO] Jan 16 2020 18:35:21 : Detected interrupt. Stopping!
+[INFO] Jan 16 2020 18:35:21 : Sent stop signal to all threads!
+[INFO] Jan 16 2020 18:36:44 : Started main process
+[INFO] Jan 16 2020 18:36:44 : Created listeners
+[INFO] Jan 16 2020 18:44:57 : Started main process
+[INFO] Jan 16 2020 18:44:57 : Created listeners
+[INFO] Jan 16 2020 19:16:31 : Started main process
+[INFO] Jan 16 2020 19:16:31 : Created listeners
+[INFO] Jan 16 2020 19:18:16 : Started main process
+[INFO] Jan 16 2020 19:18:16 : Created listeners
+[INFO] Jan 16 2020 19:30:18 : Started main process
+[INFO] Jan 16 2020 19:30:18 : Created listeners
+[INFO] Jan 16 2020 19:30:50 : Detected interrupt. Stopping!
+[INFO] Jan 16 2020 19:30:50 : Sent stop signal to all threads!
+[INFO] Jan 16 2020 19:30:51 : All threads stopped!
+[INFO] Jan 16 2020 22:22:06 : Started main process
+[INFO] Jan 16 2020 22:22:06 : Created listeners
+[INFO] Jan 16 2020 22:29:43 : Detected interrupt. Stopping!
+[INFO] Jan 16 2020 22:29:43 : Sent stop signal to all threads!
+[INFO] Jan 16 2020 22:29:46 : All threads stopped!
+[INFO] Jan 16 2020 22:31:47 : Started main process
+[INFO] Jan 16 2020 22:31:47 : Created listeners
+[INFO] Jan 16 2020 22:32:44 : Detected interrupt. Stopping!
+[INFO] Jan 16 2020 22:32:44 : Sent stop signal to all threads!
+[INFO] Jan 16 2020 22:32:51 : All threads stopped!
+[INFO] Jan 16 2020 22:35:54 : Started main process
+[INFO] Jan 16 2020 22:35:54 : Created listeners
+[INFO] Jan 16 2020 22:38:29 : Started main process
+[INFO] Jan 16 2020 22:38:29 : Created listeners
+[INFO] Jan 16 2020 22:38:44 : Started main process
+[INFO] Jan 16 2020 22:38:44 : Created listeners
+[INFO] Jan 16 2020 22:41:58 : Started main process
+[INFO] Jan 16 2020 22:41:58 : Created listeners
+[INFO] Jan 16 2020 22:44:10 : Detected interrupt. Stopping!
+[INFO] Jan 16 2020 22:44:10 : Sent stop signal to all threads!
+[INFO] Jan 16 2020 22:44:12 : All threads stopped!
+[INFO] Jan 16 2020 22:44:17 : Started main process
+[INFO] Jan 16 2020 22:44:17 : Created listeners
+[INFO] Jan 16 2020 22:56:24 : Started main process
+[INFO] Jan 16 2020 22:56:24 : Created listeners
+[INFO] Jan 16 2020 22:59:04 : Detected interrupt. Stopping!
+[INFO] Jan 16 2020 22:59:04 : Sent stop signal to all threads!
+[INFO] Jan 16 2020 23:00:05 : Started main process
+[INFO] Jan 16 2020 23:00:05 : Created listeners
+[INFO] Jan 16 2020 23:01:15 : Detected interrupt. Stopping!
+[INFO] Jan 16 2020 23:01:15 : Sent stop signal to all threads!
+[INFO] Jan 16 2020 23:01:20 : All threads stopped!
+[INFO] Jan 16 2020 23:03:03 : Started main process
+[INFO] Jan 16 2020 23:03:03 : Created listeners
+[INFO] Jan 16 2020 23:13:08 : Detected interrupt. Stopping!
+[INFO] Jan 16 2020 23:13:08 : Sent stop signal to all threads!
+[INFO] Jan 16 2020 23:13:17 : All threads stopped!
+[INFO] Feb 26 2020 16:20:37 : Started main process
+[INFO] Feb 26 2020 16:20:37 : Created listeners
+[INFO] Feb 26 2020 16:20:49 : Detected interrupt. Stopping!
+[INFO] Feb 26 2020 16:20:49 : Sent stop signal to all threads!
+[INFO] Mar 08 2020 22:57:09 : Started main process
+[INFO] Mar 08 2020 22:57:09 : Created listeners
+[INFO] Mar 08 2020 22:57:47 : Detected interrupt. Stopping!
+[INFO] Mar 08 2020 22:57:47 : Sent stop signal to all threads!
+[INFO] Mar 08 2020 22:57:52 : All threads stopped!
+[INFO] Mar 08 2020 23:19:05 : Started main process
+[INFO] Mar 08 2020 23:19:05 : Created listeners
+[INFO] Mar 08 2020 23:21:13 : Detected interrupt. Stopping!
+[INFO] Mar 08 2020 23:21:13 : Sent stop signal to all threads!
+[INFO] Mar 08 2020 23:21:23 : All threads stopped!
+[INFO] Mar 08 2020 23:21:39 : Started main process
+[INFO] Mar 08 2020 23:21:39 : Created listeners
+[INFO] Mar 08 2020 23:23:22 : Started main process
+[INFO] Mar 08 2020 23:23:22 : Created listeners
+[INFO] Mar 08 2020 23:52:05 : Detected interrupt. Stopping!
+[INFO] Mar 08 2020 23:52:05 : Sent stop signal to all threads!
+[INFO] Mar 08 2020 23:52:23 : Started main process
+[INFO] Mar 08 2020 23:52:23 : Created listeners
+[INFO] Mar 09 2020 00:02:14 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 00:02:14 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 00:02:20 : All threads stopped!
+[INFO] Mar 09 2020 00:03:12 : Started main process
+[INFO] Mar 09 2020 00:03:12 : Created listeners
+[INFO] Mar 09 2020 00:04:09 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 00:04:09 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 00:04:19 : All threads stopped!
+[INFO] Mar 09 2020 00:04:25 : Started main process
+[INFO] Mar 09 2020 00:04:25 : Created listeners
+[INFO] Mar 09 2020 00:08:58 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 00:08:58 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 00:08:58 : All threads stopped!
+[INFO] Mar 09 2020 00:09:09 : Started main process
+[INFO] Mar 09 2020 00:09:09 : Created listeners
+[INFO] Mar 09 2020 00:15:30 : Started main process
+[INFO] Mar 09 2020 00:15:30 : Created listeners
+[INFO] Mar 09 2020 00:18:25 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 00:18:25 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 00:18:28 : All threads stopped!
+[INFO] Mar 09 2020 00:18:33 : Started main process
+[INFO] Mar 09 2020 00:18:33 : Created listeners
+[INFO] Mar 09 2020 00:20:55 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 00:20:55 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 00:20:57 : All threads stopped!
+[INFO] Mar 09 2020 00:21:06 : Started main process
+[INFO] Mar 09 2020 00:21:06 : Created listeners
+[INFO] Mar 09 2020 00:21:25 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 00:21:25 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 00:21:29 : All threads stopped!
+[INFO] Mar 09 2020 00:22:17 : Started main process
+[INFO] Mar 09 2020 00:22:17 : Created listeners
+[INFO] Mar 09 2020 01:04:11 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 01:04:11 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 01:04:22 : All threads stopped!
+[INFO] Mar 09 2020 01:07:34 : Started main process
+[INFO] Mar 09 2020 01:07:34 : Created listeners
+[INFO] Mar 09 2020 01:09:18 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 01:09:18 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 01:09:21 : All threads stopped!
+[INFO] Mar 09 2020 01:09:27 : Started main process
+[INFO] Mar 09 2020 01:09:27 : Created listeners
+[INFO] Mar 09 2020 01:10:59 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 01:10:59 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 01:11:07 : All threads stopped!
+[INFO] Mar 09 2020 01:11:23 : Started main process
+[INFO] Mar 09 2020 01:11:23 : Created listeners
+[INFO] Mar 09 2020 01:11:36 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 01:11:36 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 01:11:46 : All threads stopped!
+[INFO] Mar 09 2020 01:11:52 : Started main process
+[INFO] Mar 09 2020 01:11:52 : Created listeners
+[INFO] Mar 09 2020 01:21:08 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 01:21:08 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 01:21:11 : All threads stopped!
+[INFO] Mar 09 2020 01:49:49 : Started main process
+[INFO] Mar 09 2020 01:49:49 : Created listeners
+[INFO] Mar 09 2020 01:50:06 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 01:50:06 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 01:50:12 : All threads stopped!
+[INFO] Mar 09 2020 01:50:16 : Started main process
+[INFO] Mar 09 2020 01:50:16 : Created listeners
+[INFO] Mar 09 2020 01:51:36 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 01:51:36 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 01:51:46 : All threads stopped!
+[INFO] Mar 09 2020 10:34:33 : Started main process
+[INFO] Mar 09 2020 10:34:33 : Created listeners
+[INFO] Mar 09 2020 10:35:56 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 10:35:56 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 10:36:01 : All threads stopped!
+[INFO] Mar 09 2020 10:36:40 : Started main process
+[INFO] Mar 09 2020 10:36:40 : Created listeners
+[INFO] Mar 09 2020 10:38:07 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 10:38:07 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 10:38:17 : All threads stopped!
+[INFO] Mar 09 2020 10:43:43 : Started main process
+[INFO] Mar 09 2020 10:43:43 : Created listeners
+[INFO] Mar 09 2020 10:53:07 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 10:53:07 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 10:53:10 : Started main process
+[INFO] Mar 09 2020 10:53:10 : Created listeners
+[INFO] Mar 09 2020 10:53:20 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 10:53:20 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 10:53:25 : All threads stopped!
+[INFO] Mar 09 2020 10:54:37 : Started main process
+[INFO] Mar 09 2020 10:54:37 : Created listeners
+[INFO] Mar 09 2020 10:56:59 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 10:56:59 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 10:57:08 : All threads stopped!
+[INFO] Mar 09 2020 10:57:14 : Started main process
+[INFO] Mar 09 2020 10:57:14 : Created listeners
+[INFO] Mar 09 2020 10:58:21 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 10:58:21 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 10:58:31 : All threads stopped!
+[INFO] Mar 09 2020 11:00:16 : Started main process
+[INFO] Mar 09 2020 11:00:16 : Created listeners
+[INFO] Mar 09 2020 11:00:17 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 11:00:17 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 11:00:19 : All threads stopped!
+[INFO] Mar 09 2020 11:00:30 : Started main process
+[INFO] Mar 09 2020 11:00:30 : Created listeners
+[INFO] Mar 09 2020 11:03:06 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 11:03:06 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 11:03:08 : All threads stopped!
+[INFO] Mar 09 2020 11:03:14 : Started main process
+[INFO] Mar 09 2020 11:03:14 : Created listeners
+[INFO] Mar 09 2020 11:05:59 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 11:05:59 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 11:06:03 : All threads stopped!
+[INFO] Mar 09 2020 11:06:11 : Started main process
+[INFO] Mar 09 2020 11:06:11 : Created listeners
+[INFO] Mar 09 2020 11:07:19 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 11:07:19 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 11:07:24 : All threads stopped!
+[INFO] Mar 09 2020 11:07:30 : Started main process
+[INFO] Mar 09 2020 11:07:30 : Created listeners
+[INFO] Mar 09 2020 11:15:10 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 11:15:10 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 11:15:17 : All threads stopped!
+[INFO] Mar 09 2020 11:16:33 : Started main process
+[INFO] Mar 09 2020 11:16:33 : Created listeners
+[INFO] Mar 09 2020 11:22:49 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 11:22:49 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 11:22:53 : All threads stopped!
+[INFO] Mar 09 2020 11:23:27 : Started main process
+[INFO] Mar 09 2020 11:23:27 : Created listeners
+[INFO] Mar 09 2020 11:41:47 : Started main process
+[INFO] Mar 09 2020 11:41:47 : Created listeners
+[INFO] Mar 09 2020 11:41:54 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 11:41:54 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 11:42:04 : All threads stopped!
+[INFO] Mar 09 2020 11:42:16 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 11:42:16 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 11:42:17 : All threads stopped!
+[INFO] Mar 09 2020 11:42:38 : Started main process
+[INFO] Mar 09 2020 11:42:38 : Created listeners
+[INFO] Mar 09 2020 13:04:26 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 13:04:26 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 13:04:34 : Started main process
+[INFO] Mar 09 2020 13:04:34 : Created listeners
+[INFO] Mar 09 2020 13:39:14 : Started main process
+[INFO] Mar 09 2020 13:39:14 : Created listeners
+[INFO] Mar 09 2020 14:33:03 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 14:33:03 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 14:33:09 : Started main process
+[INFO] Mar 09 2020 14:33:09 : Created listeners
+[INFO] Mar 09 2020 14:39:19 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 14:39:19 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 14:39:21 : All threads stopped!
+[INFO] Mar 09 2020 14:39:31 : Started main process
+[INFO] Mar 09 2020 14:39:31 : Created listeners
+[INFO] Mar 09 2020 14:50:32 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 14:50:32 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 14:50:34 : Started main process
+[INFO] Mar 09 2020 14:50:34 : Created listeners
+[INFO] Mar 09 2020 15:24:16 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 15:24:16 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 15:24:17 : All threads stopped!
+[INFO] Mar 09 2020 15:58:40 : Started main process
+[INFO] Mar 09 2020 15:58:40 : Created listeners
+[INFO] Mar 09 2020 16:06:26 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 16:06:26 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 16:06:27 : All threads stopped!
+[INFO] Mar 09 2020 16:06:29 : Started main process
+[INFO] Mar 09 2020 16:06:29 : Created listeners
+[INFO] Mar 09 2020 16:20:04 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 16:20:04 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 16:20:05 : All threads stopped!
+[INFO] Mar 09 2020 16:20:06 : Started main process
+[INFO] Mar 09 2020 16:20:06 : Created listeners
+[INFO] Mar 09 2020 16:24:10 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 16:24:10 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 16:24:11 : Started main process
+[INFO] Mar 09 2020 16:24:11 : Created listeners
+[INFO] Mar 09 2020 16:24:12 : All threads stopped!
+[INFO] Mar 09 2020 17:11:14 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 17:11:14 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 17:11:15 : All threads stopped!
+[INFO] Mar 09 2020 17:11:15 : Started main process
+[INFO] Mar 09 2020 17:11:15 : Created listeners
+[INFO] Mar 09 2020 17:25:15 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 17:25:15 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 17:25:16 : All threads stopped!
+[INFO] Mar 09 2020 17:25:16 : Started main process
+[INFO] Mar 09 2020 17:25:16 : Created listeners
+[INFO] Mar 09 2020 19:22:16 : Started main process
+[INFO] Mar 09 2020 19:22:16 : Created listeners
+[INFO] Mar 09 2020 19:22:46 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 19:22:46 : Sent stop signal to all threads!
+[INFO] Mar 09 2020 19:23:52 : Started main process
+[INFO] Mar 09 2020 19:23:52 : Created listeners
+[INFO] Mar 09 2020 20:13:12 : Detected interrupt. Stopping!
+[INFO] Mar 09 2020 20:13:12 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 00:45:16 : Started main process
+[INFO] Mar 10 2020 00:45:16 : Created listeners
+[INFO] Mar 10 2020 00:46:47 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 00:46:47 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 00:46:53 : All threads stopped!
+[INFO] Mar 10 2020 00:47:26 : Started main process
+[INFO] Mar 10 2020 00:47:26 : Created listeners
+[INFO] Mar 10 2020 00:48:05 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 00:48:05 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 00:48:13 : All threads stopped!
+[INFO] Mar 10 2020 00:48:26 : Started main process
+[INFO] Mar 10 2020 00:48:26 : Created listeners
+[INFO] Mar 10 2020 00:49:41 : Started main process
+[INFO] Mar 10 2020 00:49:41 : Created listeners
+[INFO] Mar 10 2020 00:58:19 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 00:58:19 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 00:58:53 : Started main process
+[INFO] Mar 10 2020 00:58:53 : Created listeners
+[INFO] Mar 10 2020 01:01:41 : Started main process
+[INFO] Mar 10 2020 01:01:41 : Created listeners
+[INFO] Mar 10 2020 01:02:02 : Started main process
+[INFO] Mar 10 2020 01:02:02 : Created listeners
+[INFO] Mar 10 2020 01:04:08 : Started main process
+[INFO] Mar 10 2020 01:04:08 : Created listeners
+[INFO] Mar 10 2020 01:11:07 : Started main process
+[INFO] Mar 10 2020 01:11:07 : Created listeners
+[INFO] Mar 10 2020 01:28:12 : Started main process
+[INFO] Mar 10 2020 01:28:12 : Created listeners
+[INFO] Mar 10 2020 01:29:45 : Started main process
+[INFO] Mar 10 2020 01:29:45 : Created listeners
+[INFO] Mar 10 2020 01:39:34 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 01:39:34 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 01:39:39 : All threads stopped!
+[INFO] Mar 10 2020 01:41:49 : Started main process
+[INFO] Mar 10 2020 01:41:49 : Created listeners
+[INFO] Mar 10 2020 01:43:19 : Started main process
+[INFO] Mar 10 2020 01:43:19 : Created listeners
+[INFO] Mar 10 2020 01:45:42 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 01:45:42 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 01:45:45 : All threads stopped!
+[INFO] Mar 10 2020 01:46:27 : Started main process
+[INFO] Mar 10 2020 01:46:27 : Created listeners
+[INFO] Mar 10 2020 01:50:52 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 01:50:52 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 01:51:01 : All threads stopped!
+[INFO] Mar 10 2020 01:51:12 : Started main process
+[INFO] Mar 10 2020 01:51:12 : Created listeners
+[INFO] Mar 10 2020 01:51:55 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 01:51:55 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 01:51:56 : All threads stopped!
+[INFO] Mar 10 2020 01:52:16 : Started main process
+[INFO] Mar 10 2020 01:52:16 : Created listeners
+[INFO] Mar 10 2020 01:55:11 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 01:55:11 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 01:55:14 : All threads stopped!
+[INFO] Mar 10 2020 01:55:42 : Started main process
+[INFO] Mar 10 2020 01:55:42 : Created listeners
+[INFO] Mar 10 2020 01:58:05 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 01:58:05 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 01:58:08 : All threads stopped!
+[INFO] Mar 10 2020 01:58:40 : Started main process
+[INFO] Mar 10 2020 01:58:40 : Created listeners
+[INFO] Mar 10 2020 02:01:00 : Started main process
+[INFO] Mar 10 2020 02:01:00 : Created listeners
+[INFO] Mar 10 2020 02:03:24 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 02:03:24 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 02:03:29 : All threads stopped!
+[INFO] Mar 10 2020 02:03:34 : Started main process
+[INFO] Mar 10 2020 02:03:34 : Created listeners
+[INFO] Mar 10 2020 02:04:27 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 02:04:27 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 02:04:37 : All threads stopped!
+[INFO] Mar 10 2020 02:04:43 : Started main process
+[INFO] Mar 10 2020 02:04:43 : Created listeners
+[INFO] Mar 10 2020 02:05:11 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 02:05:11 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 02:05:20 : All threads stopped!
+[INFO] Mar 10 2020 02:06:08 : Started main process
+[INFO] Mar 10 2020 02:06:08 : Created listeners
+[INFO] Mar 10 2020 02:07:17 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 02:07:17 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 02:07:24 : All threads stopped!
+[INFO] Mar 10 2020 02:07:48 : Started main process
+[INFO] Mar 10 2020 02:07:48 : Created listeners
+[INFO] Mar 10 2020 02:11:19 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 02:11:19 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 02:11:19 : All threads stopped!
+[INFO] Mar 10 2020 02:11:26 : Started main process
+[INFO] Mar 10 2020 02:11:26 : Created listeners
+[INFO] Mar 10 2020 02:14:17 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 02:14:17 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 02:14:24 : All threads stopped!
+[INFO] Mar 10 2020 02:14:32 : Started main process
+[INFO] Mar 10 2020 02:14:32 : Created listeners
+[INFO] Mar 10 2020 02:16:15 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 02:16:15 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 02:18:17 : Started main process
+[INFO] Mar 10 2020 02:18:17 : Created listeners
+[INFO] Mar 10 2020 02:18:55 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 02:18:55 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 02:19:02 : All threads stopped!
+[INFO] Mar 10 2020 02:19:15 : Started main process
+[INFO] Mar 10 2020 02:19:15 : Created listeners
+[INFO] Mar 10 2020 02:19:41 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 02:19:41 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 02:19:49 : All threads stopped!
+[INFO] Mar 10 2020 02:19:56 : Started main process
+[INFO] Mar 10 2020 02:19:56 : Created listeners
+[INFO] Mar 10 2020 02:21:51 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 02:21:51 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 02:22:00 : All threads stopped!
+[INFO] Mar 10 2020 02:22:05 : Started main process
+[INFO] Mar 10 2020 02:22:05 : Created listeners
+[INFO] Mar 10 2020 02:23:16 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 02:23:16 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 02:23:24 : All threads stopped!
+[INFO] Mar 10 2020 02:23:45 : Started main process
+[INFO] Mar 10 2020 02:23:45 : Created listeners
+[INFO] Mar 10 2020 02:24:45 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 02:24:45 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 02:24:53 : All threads stopped!
+[INFO] Mar 10 2020 02:25:00 : Started main process
+[INFO] Mar 10 2020 02:25:00 : Created listeners
+[INFO] Mar 10 2020 02:29:27 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 02:29:27 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 02:29:30 : All threads stopped!
+[INFO] Mar 10 2020 02:30:18 : Started main process
+[INFO] Mar 10 2020 02:30:18 : Created listeners
+[INFO] Mar 10 2020 02:31:06 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 02:31:06 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 02:31:11 : All threads stopped!
+[INFO] Mar 10 2020 02:31:16 : Started main process
+[INFO] Mar 10 2020 02:31:16 : Created listeners
+[INFO] Mar 10 2020 02:36:43 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 02:36:43 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 02:36:52 : All threads stopped!
+[INFO] Mar 10 2020 02:37:02 : Started main process
+[INFO] Mar 10 2020 02:37:02 : Created listeners
+[INFO] Mar 10 2020 02:38:55 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 02:38:55 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 02:38:57 : All threads stopped!
+[INFO] Mar 10 2020 02:39:09 : Started main process
+[INFO] Mar 10 2020 02:39:09 : Created listeners
+[INFO] Mar 10 2020 02:41:34 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 02:41:34 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 02:41:42 : All threads stopped!
+[INFO] Mar 10 2020 02:41:48 : Started main process
+[INFO] Mar 10 2020 02:41:48 : Created listeners
+[INFO] Mar 10 2020 02:44:51 : Started main process
+[INFO] Mar 10 2020 02:44:51 : Created listeners
+[INFO] Mar 10 2020 02:46:15 : Started main process
+[INFO] Mar 10 2020 02:46:15 : Created listeners
+[INFO] Mar 10 2020 02:47:51 : Started main process
+[INFO] Mar 10 2020 02:47:51 : Created listeners
+[INFO] Mar 10 2020 02:49:16 : Started main process
+[INFO] Mar 10 2020 02:49:16 : Created listeners
+[INFO] Mar 10 2020 02:49:38 : Started main process
+[INFO] Mar 10 2020 02:49:38 : Created listeners
+[INFO] Mar 10 2020 02:59:41 : Started main process
+[INFO] Mar 10 2020 02:59:41 : Created listeners
+[INFO] Mar 10 2020 03:00:14 : Started main process
+[INFO] Mar 10 2020 03:00:14 : Created listeners
+[INFO] Mar 10 2020 03:00:40 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 03:00:40 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 03:00:47 : All threads stopped!
+[INFO] Mar 10 2020 03:00:56 : Started main process
+[INFO] Mar 10 2020 03:00:56 : Created listeners
+[INFO] Mar 10 2020 03:04:41 : Started main process
+[INFO] Mar 10 2020 03:04:41 : Created listeners
+[INFO] Mar 10 2020 03:05:50 : Started main process
+[INFO] Mar 10 2020 03:05:50 : Created listeners
+[INFO] Mar 10 2020 03:10:26 : Started main process
+[INFO] Mar 10 2020 03:10:26 : Created listeners
+[INFO] Mar 10 2020 03:13:12 : Started main process
+[INFO] Mar 10 2020 03:13:12 : Created listeners
+[INFO] Mar 10 2020 03:16:15 : Started main process
+[INFO] Mar 10 2020 03:16:15 : Created listeners
+[INFO] Mar 10 2020 03:17:22 : Started main process
+[INFO] Mar 10 2020 03:17:22 : Created listeners
+[INFO] Mar 10 2020 03:17:54 : Started main process
+[INFO] Mar 10 2020 03:17:54 : Created listeners
+[INFO] Mar 10 2020 03:19:17 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 03:19:17 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 03:19:19 : All threads stopped!
+[INFO] Mar 10 2020 03:19:26 : Started main process
+[INFO] Mar 10 2020 03:19:26 : Created listeners
+[INFO] Mar 10 2020 03:22:33 : Started main process
+[INFO] Mar 10 2020 03:22:33 : Created listeners
+[INFO] Mar 10 2020 03:24:24 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 03:24:24 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 03:24:30 : All threads stopped!
+[INFO] Mar 10 2020 03:24:51 : Started main process
+[INFO] Mar 10 2020 03:24:51 : Created listeners
+[INFO] Mar 10 2020 04:38:16 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 04:38:16 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 04:38:22 : All threads stopped!
+[INFO] Mar 10 2020 08:23:24 : Started main process
+[INFO] Mar 10 2020 08:23:24 : Created listeners
+[INFO] Mar 10 2020 08:27:23 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 08:27:23 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 08:30:06 : Started main process
+[INFO] Mar 10 2020 08:30:06 : Created listeners
+[INFO] Mar 10 2020 08:31:01 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 08:31:01 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 08:31:03 : All threads stopped!
+[INFO] Mar 10 2020 08:33:03 : Started main process
+[INFO] Mar 10 2020 08:33:03 : Created listeners
+[INFO] Mar 10 2020 08:34:44 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 08:34:44 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 08:34:46 : All threads stopped!
+[INFO] Mar 10 2020 08:34:55 : Started main process
+[INFO] Mar 10 2020 08:34:55 : Created listeners
+[INFO] Mar 10 2020 08:36:46 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 08:36:46 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 08:36:47 : All threads stopped!
+[INFO] Mar 10 2020 08:37:03 : Started main process
+[INFO] Mar 10 2020 08:37:03 : Created listeners
+[INFO] Mar 10 2020 08:42:09 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 08:42:09 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 08:42:11 : All threads stopped!
+[INFO] Mar 10 2020 08:42:19 : Started main process
+[INFO] Mar 10 2020 08:42:19 : Created listeners
+[INFO] Mar 10 2020 08:51:47 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 08:51:47 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 08:52:20 : Started main process
+[INFO] Mar 10 2020 08:52:20 : Created listeners
+[INFO] Mar 10 2020 08:53:22 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 08:53:22 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 08:53:24 : All threads stopped!
+[INFO] Mar 10 2020 08:53:32 : Started main process
+[INFO] Mar 10 2020 08:53:32 : Created listeners
+[INFO] Mar 10 2020 09:31:54 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 09:31:54 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 09:36:13 : Started main process
+[INFO] Mar 10 2020 09:36:13 : Created listeners
+[INFO] Mar 10 2020 09:38:07 : Started main process
+[INFO] Mar 10 2020 09:38:07 : Created listeners
+[INFO] Mar 10 2020 09:38:49 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 09:38:49 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 09:38:49 : All threads stopped!
+[INFO] Mar 10 2020 09:39:29 : Started main process
+[INFO] Mar 10 2020 09:39:29 : Created listeners
+[INFO] Mar 10 2020 09:42:34 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 09:42:34 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 09:42:34 : All threads stopped!
+[INFO] Mar 10 2020 09:42:51 : Started main process
+[INFO] Mar 10 2020 09:42:51 : Created listeners
+[INFO] Mar 10 2020 09:44:41 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 09:44:41 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 09:44:42 : All threads stopped!
+[INFO] Mar 10 2020 09:44:49 : Started main process
+[INFO] Mar 10 2020 09:44:49 : Created listeners
+[INFO] Mar 10 2020 09:52:50 : Started main process
+[INFO] Mar 10 2020 09:52:50 : Created listeners
+[INFO] Mar 10 2020 10:05:24 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 10:05:24 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 10:10:47 : All threads stopped!
+[INFO] Mar 10 2020 10:17:31 : Started main process
+[INFO] Mar 10 2020 10:17:31 : Created listeners
+[INFO] Mar 10 2020 11:06:47 : Started main process
+[INFO] Mar 10 2020 11:06:47 : Created listeners
+[INFO] Mar 10 2020 11:09:26 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 11:09:26 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 11:09:27 : Started main process
+[INFO] Mar 10 2020 11:09:27 : Created listeners
+[INFO] Mar 10 2020 11:10:42 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 11:10:42 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 11:10:43 : Started main process
+[INFO] Mar 10 2020 11:10:43 : Created listeners
+[INFO] Mar 10 2020 11:10:43 : All threads stopped!
+[INFO] Mar 10 2020 11:20:43 : Started main process
+[INFO] Mar 10 2020 11:20:43 : Created listeners
+[INFO] Mar 10 2020 11:29:32 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 11:29:32 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 11:29:34 : Started main process
+[INFO] Mar 10 2020 11:29:34 : Created listeners
+[INFO] Mar 10 2020 11:29:35 : All threads stopped!
+[INFO] Mar 10 2020 11:29:52 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 11:29:52 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 11:29:54 : All threads stopped!
+[INFO] Mar 10 2020 11:30:03 : Started main process
+[INFO] Mar 10 2020 11:30:03 : Created listeners
+[INFO] Mar 10 2020 11:30:50 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 11:30:50 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 11:31:02 : All threads stopped!
+[INFO] Mar 10 2020 11:39:58 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 11:39:58 : Sent stop signal to all threads!
+[INFO] Mar 10 2020 11:43:09 : Started main process
+[INFO] Mar 10 2020 11:43:09 : Created listeners
+[INFO] Mar 10 2020 11:55:41 : Started main process
+[INFO] Mar 10 2020 11:55:41 : Created listeners
+[INFO] Mar 10 2020 13:28:56 : Detected interrupt. Stopping!
+[INFO] Mar 10 2020 13:28:56 : Sent stop signal to all threads!
+[INFO] Mar 11 2020 09:40:07 : Started main process
+[INFO] Mar 11 2020 09:40:07 : Created listeners
+[INFO] Mar 11 2020 10:14:00 : Detected interrupt. Stopping!
+[INFO] Mar 11 2020 10:14:00 : Sent stop signal to all threads!
+[INFO] Mar 11 2020 10:14:02 : All threads stopped!
+[INFO] Mar 11 2020 10:30:26 : Started main process
+[INFO] Mar 11 2020 10:30:26 : Created listeners
+[INFO] Mar 11 2020 12:53:49 : Started main process
+[INFO] Mar 11 2020 12:53:49 : Created listeners

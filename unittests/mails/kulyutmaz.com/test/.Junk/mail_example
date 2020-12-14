@@ -1,0 +1,30 @@
+Return-Path: <test2@kulyutmaz.com>
+Delivered-To: test@kulyutmaz.com
+Received: from mail.kulyutmaz.com
+	by mail.kulyutmaz.com with LMTP
+	id LYh/Fe5B5l2HAwAA1rTUJA
+	(envelope-from <test2@kulyutmaz.com>)
+	for <test@kulyutmaz.com>; Tue, 03 Dec 2019 07:07:26 -0400
+Authentication-Results: mail.kulyutmaz.com; auth=pass (login)
+Received: from localhost (Unknown [127.0.0.1])
+	by mail.kulyutmaz.com (Haraka) with ESMTPSA id CA2F93DC-D046-41C2-BEEC-2F10C94573AF.1
+	envelope-from <test2@kulyutmaz.com> (authenticated bits=0)
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256);
+	Tue, 03 Dec 2019 11:07:26 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+Date: Tue, 03 Dec 2019 14:07:26 +0300
+From: test2@kulyutmaz.com
+To: test@kulyutmaz.com
+Subject: Test mail
+User-Agent: Roundcube Webmail/1.4.0
+Message-ID: <aa93d35f9f6bd1f592b8b41809c2145f@kulyutmaz.com>
+X-Sender: test2@kulyutmaz.com
+
+http://localhost:8888/redirect.php?xss=vuln
+http://localhost:8888/redirect.php?xss=safe
+http://localhost:8888/redirect.php?test=safe
+http://localhost:8888/redirect.php?test=%253C
+

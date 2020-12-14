@@ -1,0 +1,15 @@
+{
+    "mysql_username": "kulyutmazuser",
+    "mysql_host": "localhost",
+    "refresh_millis": 200,
+    "sensitivity": 32,
+    "threshold": 20,
+    "accounts": [{
+        "server": "imap.gmail.com",
+        "password": "totallysecurepass1",
+        "uname": "ycolakoglu.bilisim@gmail.com",
+        "port": 993
+    }],
+    "mysql_database": "kulyutmaz_db",
+    "mysql_password": "totallysecurepass"
+}
